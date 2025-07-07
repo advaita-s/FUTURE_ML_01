@@ -70,6 +70,8 @@ The project leverages historical sales data from the Superstore dataset to predi
 **Advaita S S**  
 
 BSc Computer Science (Data Analytics) Student
+Machine Learning Intern @ Future Interns  
+📅 July 2025
 
-📌 This project is an independently developed academic and portfolio work focused on applying data analysis, machine learning, and business intelligence using real-world datasets.
+📌 This project is an independently developed academic work. 
 
