@@ -74,5 +74,5 @@ BSc Computer Science (Data Analytics) Student
 Machine Learning Intern @ Future Interns  
 📅 July 2025
 
-📌 This project is an independently developed academic work. 
+> 📌 This project is an independently developed academic work. 
 
