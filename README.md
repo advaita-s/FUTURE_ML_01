@@ -70,6 +70,7 @@ The project leverages historical sales data from the Superstore dataset to predi
 **Advaita S S**  
 
 BSc Computer Science (Data Analytics) Student
+
 Machine Learning Intern @ Future Interns  
 📅 July 2025
 
